@@ -1,0 +1,9 @@
+*.o
+GNUmakefile
+autom4te.cache
+config.h
+config.h.in
+config.log
+config.status
+configure
+doc/source/ldp.dsl
