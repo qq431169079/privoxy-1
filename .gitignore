@@ -7,3 +7,6 @@ config.log
 config.status
 configure
 doc/source/ldp.dsl
+default.action
+privoxy
+tags
